@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'zhzblog.netlify.app' }
+    { title: '欢迎来到我的博客', url: 'https://littlefish.netlify.app/' }
     
   ],
 
@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'zhzblog.netlify.app',
   HEO_HERO_TITLE_4: '一只比目鱼',
   HEO_HERO_TITLE_5: 'By NotionNext4.0 ',
-  HEO_HERO_TITLE_LINK: 'https://zhzblog.netlify.app',
+  HEO_HERO_TITLE_LINK: 'https://littlefish.netlify.app/',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
@@ -53,7 +53,7 @@ const CONFIG = {
   HEO_INFO_CARD_ICON1: 'fas fa-user',
   HEO_INFO_CARD_URL2: 'https://github.com/zhz1024',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://zhzblog.netlify.app',
+  HEO_INFO_CARD_URL3: 'https://littlefish.netlify.app/',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
